@@ -2,11 +2,16 @@
   {
     "w": 5,
     "name": "Mountain Dwarf",
-    "v": "{$race=mountain dwarf}{%con+3}{%str+4}{%dex-2}{%int-1}{%wis+1}{%lawful+2}{%chaotic-2}{%evil-2}"
+    "v": "{$race=mountain dwarf}{%con+3}{%str+4}{%dex-2}{%int-1}{%wis+1}{%lawful+2}{%chaotic-2}{%evil-2}{dwarfgod}{dwarfquirks}"
   },
   {
     "w": 6,
     "name": "Hill Dwarf",
-    "v": "{$race=hill dwarf}{%con+4}{%str+2}{%dex-2}{%int-1}{%wis+3}{%lawful+2}{%chaotic-2}{%evil-2}"
+    "v": "{$race=hill dwarf}{%con+4}{%str+2}{%dex-2}{%int-1}{%wis+3}{%lawful+2}{%chaotic-2}{%evil-2}{dwarfgod}{dwarfquirks}"
+  },
+  {
+    "w": 2,
+    "name": "Duergar",
+    "v": "{$race=duergar}{%con+4}{%str+2}{%dex-2}{%int-1}{%wis+3}{%lawful+2}{%chaotic-2}{%evil+2}{duergargod}{$skin+gray}{whitehair}{duergarquirks}"
   }
 ]

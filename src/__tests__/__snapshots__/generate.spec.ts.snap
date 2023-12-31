@@ -918,6 +918,10 @@ exports[`generate > returns expected npc options > npc-options 1`] = `
           "name": "Hill Dwarf",
           "value": 1,
         },
+        {
+          "name": "Duergar",
+          "value": 2,
+        },
       ],
       "value": 2,
     },

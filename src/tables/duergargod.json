@@ -1,0 +1,8 @@
+[
+  { "w": 6, "v": "{$god=Laduguer}{%lawful+2}{%evil+2}{$goddescr=, Duergar God of Crafting. (Lawful Evil)}" },
+  {
+    "w": 2,
+    "v": "{$god=Deep Duerra}{%lawful+2}{%evil+2}{$goddescr=, Duergar Goddess of conquest, expansion, and psionics. (Lawful Evil)}"
+  },
+  { "w": 1, "v": "{dwarfgod}" }
+]

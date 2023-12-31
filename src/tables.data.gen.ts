@@ -40,6 +40,8 @@ import dragons from "./tables/dragons.json"
 import dragonskin from "./tables/dragonskin.json"
 import drowgod from "./tables/drowgod.json"
 import drowquirks from "./tables/drowquirks.json"
+import duergargod from "./tables/duergargod.json"
+import duergarquirks from "./tables/duergarquirks.json"
 import dwarfgender from "./tables/dwarfgender.json"
 import dwarfgod from "./tables/dwarfgod.json"
 import dwarfquirks from "./tables/dwarfquirks.json"
@@ -314,6 +316,8 @@ export default {
   dragonskin,
   drowgod,
   drowquirks,
+  duergargod,
+  duergarquirks,
   dwarfgender,
   dwarfgod,
   dwarfquirks,

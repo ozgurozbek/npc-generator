@@ -15,7 +15,7 @@
     "w": 11,
     "name": "Dwarf",
     "table": "dwarf",
-    "v": "{racedwarf}{%height-38}{strongweight}{dwarfgod}{nonhumanskin}{longbeard}{age}{dwarfgender}{ageBonus}{dwarfquirks}"
+    "v": "{dwarfgender}{racedwarf}{%height-38}{strongweight}{nonhumanskin}{longbeard}{age}{ageBonus}"
   },
   {
     "w": 16,
