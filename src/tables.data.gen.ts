@@ -138,6 +138,12 @@ import kenkunamemetal from "./tables/kenkunamemetal.json"
 import kenkunamequiet from "./tables/kenkunamequiet.json"
 import kenkuquirks from "./tables/kenkuquirks.json"
 import kenkuskin from "./tables/kenkuskin.json"
+import koboldgender from "./tables/koboldgender.json"
+import koboldgod from "./tables/koboldgod.json"
+import koboldname from "./tables/koboldname.json"
+import koboldquirks from "./tables/koboldquirks.json"
+import koboldskin from "./tables/koboldskin.json"
+import koboldtraits1 from "./tables/koboldtraits1.json"
 import language from "./tables/language.json"
 import learned from "./tables/learned.json"
 import lesserNobility from "./tables/lesserNobility.json"
@@ -414,6 +420,12 @@ export default {
   kenkunamequiet,
   kenkuquirks,
   kenkuskin,
+  koboldgender,
+  koboldgod,
+  koboldname,
+  koboldquirks,
+  koboldskin,
+  koboldtraits1,
   language,
   learned,
   lesserNobility,

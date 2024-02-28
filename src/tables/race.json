@@ -79,6 +79,12 @@
   },
   {
     "w": 2,
+    "name": "Kobold",
+    "table": "kobold",
+    "v": "{$race=kobold}{%str+2}{%int+2}{%con+1}{%wis+2}{%cha-2}{%height-15}{%lawful-2}{%chaotic+4}{%good-1}{%evil+1}{%moralneutral+1}{koboldgod}{koboldskin}{age}{%age-4}{koboldgender}{koboldtraits1}{koboldquirks}{$beard=}{dragonhair}"
+  },
+  {
+    "w": 2,
     "name": "Lizardfolk",
     "table": "lizardfolk",
     "v": "{$race=lizardfolk}{%str+2}{%int+2}{%con+1}{%wis+2}{%cha-2}{%height+15}{%lawful+2}{%chaotic-3}{%good-1}{%evil-1}{%moralneutral+2}{dragongod}{lizardskin}{age}{%age-4}{lizardgender}{lizardtraits1}{lizardquirks}{$beard=}{dragonhair}"

@@ -1,0 +1,4 @@
+[
+  { "w": 1, "v": "{male}{koboldname}{$race=kobold}" },
+  { "w": 1, "v": "{female}{koboldname}{$race=kobold}" }
+]

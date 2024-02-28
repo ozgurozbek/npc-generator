@@ -1,0 +1,21 @@
+[
+  { "w": 30, "v": "{$quirks+}" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+is disgusted by taller folk. }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+has a massive height complex. }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+smells like a wet dog. }" },
+  { "w": 3, "v": "{$quirks+$majPro}{$quirks+feels comfortable joking about their height. }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+is secretly a master trapper. }{%chaotic+2}" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+has considerably longer clawed fingers. }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+has a deep thirst to conquer some land. }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+knows all the best ways to torture someone. }{%evil+3}" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+enjoys torturing small animals. }{%evil+2}" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+enjoys planning fantasy ambush scenarios. }{%chaotic+2}" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+thinks they are secretly a dragon. }" },
+  { "w": 4, "v": "{$quirks+$majPro}{$quirks+always comes across aggressive. }" },
+  { "w": 4, "v": "{$quirks+$majPro}{$quirks+always comes across insular. }" },
+  { "w": 4, "v": "{$quirks+$majPro}{$quirks+has great industrious views. }" },
+  { "w": 4, "v": "{$quirks+$majPro}{$quirks+is an expert at mining. }" },
+  { "w": 3, "v": "{$quirks+$majPro}{frequency}{$quirks+$fr}{$quirks+ uses terms from a different language as }{$quirks+$minPro}{$quirks+speaks. }" },
+  { "w": 4, "v": "{$quirks+$majPro}{$quirks+has a very apparent dragon scale skin. }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+is deeply xenophobic. }" }
+]

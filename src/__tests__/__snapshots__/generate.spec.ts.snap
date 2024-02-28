@@ -1007,39 +1007,44 @@ exports[`generate > returns expected npc options > npc-options 1`] = `
       "value": 12,
     },
     {
-      "name": "Lizardfolk",
+      "name": "Kobold",
       "subraces": undefined,
       "value": 13,
     },
     {
-      "name": "Medusa",
+      "name": "Lizardfolk",
       "subraces": undefined,
       "value": 14,
     },
     {
-      "name": "Orc",
+      "name": "Medusa",
       "subraces": undefined,
       "value": 15,
     },
     {
-      "name": "Tabaxi",
+      "name": "Orc",
       "subraces": undefined,
       "value": 16,
     },
     {
-      "name": "Tiefling",
+      "name": "Tabaxi",
       "subraces": undefined,
       "value": 17,
     },
     {
-      "name": "Triton",
+      "name": "Tiefling",
       "subraces": undefined,
       "value": 18,
     },
     {
-      "name": "Troglodyte",
+      "name": "Triton",
       "subraces": undefined,
       "value": 19,
+    },
+    {
+      "name": "Troglodyte",
+      "subraces": undefined,
+      "value": 20,
     },
   ],
 }
