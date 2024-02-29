@@ -1,12 +1,12 @@
 [
-  { "w": 1, "v": "{$devil=the archdevil Bel}" },
-  { "w": 1, "v": "{$devil=the archdevil Dispater}" },
-  { "w": 1, "v": "{$devil=the archdevil Mammon}" },
-  { "w": 1, "v": "{$devil=the archdevil Fierna}" },
-  { "w": 1, "v": "{$devil=the archdevil Belial}" },
-  { "w": 1, "v": "{$devil=the archdevil Prince Levistus}" },
-  { "w": 1, "v": "{$devil=the archdevil Glasya}" },
-  { "w": 1, "v": "{$devil=the archdevil Baalzebul}" },
-  { "w": 1, "v": "{$devil=the archdevil Mephistopheles}" },
-  { "w": 1, "v": "{$devil=the archdevil Asmodeus}" }
+  { "w": 1, "v": "{$devil=the archdevil Bel (Pedi)}" },
+  { "w": 1, "v": "{$devil=the archdevil Dispater (Pedi)}" },
+  { "w": 1, "v": "{$devil=the archdevil Mammon (Pedi)}" },
+  { "w": 1, "v": "{$devil=the archdevil Fierna (Pedi)}" },
+  { "w": 1, "v": "{$devil=the archdevil Belial (Pedi)}" },
+  { "w": 1, "v": "{$devil=the archdevil Prince Levistus (Pedi)}" },
+  { "w": 1, "v": "{$devil=the archdevil Glasya (Pedi)}" },
+  { "w": 1, "v": "{$devil=the archdevil Baalzebul (Pedi)}" },
+  { "w": 1, "v": "{$devil=the archdevil Mephistopheles (Pedi)}" },
+  { "w": 1, "v": "{$devil=the archdevil Asmodeus (Pedi)}" }
 ]

@@ -1,4 +1,5 @@
 [
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to purge aspects of Smears. }{%good+2}" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to spread compassion and hope. }{%good+2}" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to spread knowledge and wisdom. }{%int+2}{%wis+2}" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to spread humor and joy. }{%cha+2}" },

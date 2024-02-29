@@ -1,5 +1,7 @@
 [
   { "w": 8, "v": "{$sphy1+tattoo of a skull}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a hydra}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a manticore}" },
   { "w": 3, "v": "{$sphy1+tattoo of a wolf}" },
   { "w": 3, "v": "{$sphy1+tattoo of a bear}" },
   { "w": 3, "v": "{$sphy1+tattoo of an eagle}" },
@@ -47,5 +49,22 @@
   { "w": 2, "v": "{$sphy1+tattoo of a zombie}" },
   { "w": 2, "v": "{$sphy1+tattoo of a jellyfish}" },
   { "w": 2, "v": "{$sphy1+tattoo of a chimera}" },
-  { "w": 2, "v": "{$sphy1+tattoo of a kraken}" }
+  { "w": 2, "v": "{$sphy1+tattoo of a kraken}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a beholder}" },
+  { "w": 2, "v": "{$sphy1+tattoo of an illithid}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a goblin}" },
+  { "w": 2, "v": "{$sphy1+tattoo of an orc}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a lich}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a gelatinous cube}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a tarrasque}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a devil}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a troll}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a kobold}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a giant}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a skeleton}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a werewolf}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a vampire}" },
+  { "w": 2, "v": "{$sphy1+tattoo of an elemental}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a banshee}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a mimic}" }
 ]
