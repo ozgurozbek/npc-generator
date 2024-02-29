@@ -18,7 +18,6 @@
     "name": "Monk",
     "v": "{$occupation=monk}{hiStr}{hiDex}{hiCon}{medInt}{hiWis}{medCha}{%ethicalneutral-2}{%chaotic-2}{%lawful+2}{militaryquirk}{kenkunamequiet}"
   },
-  { "w": 3, "name": "Mystic", "v": "{$occupation=mystic}{lowStr}{medDex}{lowCon}{hiInt}{hiWis}{medCha}{weirdQuirk}{kenkunamequiet}" },
   {
     "w": 8,
     "name": "Paladin",

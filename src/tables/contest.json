@@ -1,6 +1,8 @@
 [
   { "w": 2, "v": "{$hook+horse riding contest}" },
   { "w": 2, "v": "{$hook+drinking competition}" },
+  { "w": 2, "v": "{$hook+Violetcraft drinking competition}" },
+  { "w": 2, "v": "{$hook+magical concentration competition}" },
   { "w": 2, "v": "{$hook+hunting competition}" },
   { "w": 2, "v": "{$hook+monster slaying tournament}" },
   { "w": 2, "v": "{$hook+shooting contest}" },
@@ -9,6 +11,7 @@
   { "w": 2, "v": "{$hook+book reading competition}" },
   { "w": 2, "v": "{$hook+grand melee tournament}" },
   { "w": 2, "v": "{$hook+pie eating competition}" },
+  { "w": 1, "v": "{$hook+smear eating competition}" },
   { "w": 3, "v": "{$hook+race}" },
   { "w": 2, "v": "{$hook+pumpkin tossing contest}" },
   { "w": 2, "v": "{$hook+rock throwing competition}" },
