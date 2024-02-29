@@ -1,6 +1,7 @@
 [
   { "w": 8, "v": "{$sphy1+of sweat}" },
   { "w": 2, "v": "{$sphy1+of dogs}" },
+  { "w": 2, "v": "{$sphy1+of smears}" },
   { "w": 2, "v": "{$sphy1+of garbage}" },
   { "w": 2, "v": "{$sphy1+of horses}" },
   { "w": 2, "v": "{$sphy1+of sewage}" },
