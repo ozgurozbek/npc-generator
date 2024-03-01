@@ -1,5 +1,12 @@
 [
-  { "w": 3, "v": "{$god=Angharradh}{$goddescr=, Goddess of spring, fertility, planting, birth, defense, wisdom. (Chaotic Good)}" },
-  { "w": 3, "v": "{$god=Corellon Larethian}{$goddescr=, God of elves, magic, music, arts, crafts, war, poetry, bards, warriors. (Chaotic Good)}" },
-  { "w": 3, "v": "{humangod}" }
+  { "w": 5, "v": "{$god=Yr'snn}{$goddescr=, God of elves, magic, music, arts, crafts, war, poetry, bards, warriors. (Chaotic Good)}" },
+  { "w": 2, "v": "{$god=Tezr}{%ethicalneutral+2}{%good+2}{$goddescr=, God of flowers. (Neutral Good)}" },
+  { "w": 2, "v": "{$god=Lunm}{$goddescr=, God of childbirth, also known as Msiys. (All alignments)}" },
+  { "w": 3, "v": "{$god=Uke}{%ethicalneutral+2}{%moralneutral+2}{$goddescr=, God of life. (True Neutral)}" },
+  { "w": 3, "v": "{$god=Vihi}{%ethicalneutral+2}{%good+2}{$goddescr=, Goddess of love and affection, sister responsible from Iz. (Neutral Good)}" },
+  { "w": 2, "v": "{$god=Mykthyr}{%lawful+2}{%moralneutral+2}{$goddescr=, Goddess of rangers and trees. (Lawful Neutral)}" },
+  { "w": 2, "v": "{$god=Raxcoh}{%lawful+2}{%good+2}{$goddescr=, The helper god. (Lawful Good)}" },
+  { "w": 2, "v": "{$god=Yadseca}{%ethicalneutral+2}{%good+2}{$goddescr=, Goddess of smell. (Neutral Good)}" },
+  { "w": 2, "v": "{$god=Lara Navye}{%chaotic+2}{%good+2}{$goddescr=, Demigoddess of rabbits, also associated with love and children. (Chaotic Good)}" },
+  { "w": 1, "v": "{teothegods}" }
 ]

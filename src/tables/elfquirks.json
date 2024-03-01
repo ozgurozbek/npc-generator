@@ -12,5 +12,9 @@
   { "w": 3, "v": "{$quirks+$majPro}{frequency}{$quirks+$fr}{$quirks+ uses terms from a different language as }{$quirks+$minPro}{$quirks+speaks. }" },
   { "w": 4, "v": "{$quirks+$majPro}{$quirks+is always late. }" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+has never declared himself an adult. }" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+is affiliated with {teotheguilds}. }" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+is attached to their Elder Tree. }" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+is a Virimelle fanatic. }" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+never touches a Smear. }" },
   { "w": 2, "v": "{$quirks+$majPro}{$quirks+is deeply xenophobic. }" }
 ]

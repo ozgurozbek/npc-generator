@@ -1,13 +1,21 @@
 [
-  { "w": 1, "v": "{$god=Talos}{%evil+2}{%chaotic+2}{$goddescr=, God of storms, destruction, rebellion, conflagration, earthquakes, vortices. (Chaotic Evil)}" },
-  { "w": 1, "v": "{$god=Asmodeus}{%lawful+2}{%evil+2}{$goddescr=, God of sin, King of the Nine Hells. (Lawful Evil)}" },
-  { "w": 1, "v": "{$god=Bane}{%lawful+2}{%evil+2}{$goddescr=, God of hatred, fear and tiranny. (Lawful Evil)}" },
-  { "w": 1, "v": "{$god=Cyric}{%chaotic+2}{%evil+2}{$goddescr=, God of murder, lies, intrigue, strife, deception, illusion. (Chaotic Evil)}" },
-  { "w": 1, "v": "{$god=Lolth}{%chaotic+2}{%evil+2}{$goddescr=, Goddess of drows, spiders, darkness, chaos, evil, assassination. (Chaotic Evil)}" },
-  {
-    "w": 1,
-    "v": "{$god=Shar}{%evil+2}{%ethicalneutral+2}{$goddescr=, Goddess of dark, night, loss, forgetfulness, unrevealed secrets, caverns, dungeons, the Underdark.(NE)}"
-  },
+  { "w": 7, "v": "{$god=Naahv}{%lawful+5}{%evil+1}{$goddescr=, Patron Deity of Kobolds. (Lawful Evil)}" },
+  { "w": 5, "v": "{$god=Wodroh}{%chaotic+2}{%evil+2}{$goddescr=, God of murder. (Chaotic Evil)}" },
+  { "w": 3, "v": "{$god=Lwaro}{%chaotic+2}{%evil+2}{$goddescr=, Goddess of blades. (Chaotic Evil)}" },
+  { "w": 1, "v": "{$god=Astro}{%ethicalneutral+2}{%evil+2}{$goddescr=, Mage of corruption, also associated with mosquitoes. (Neutral Evil)}" },
+  { "w": 1, "v": "{$god=Eve Archambeau}{%chaotic+3}{%evil+1}{$goddescr=, Demigoddess of redemption, also associated with gemstones and jewelry. Commonly addressed as Ruby. (Chaotic Evil)}" },
+  { "w": 5, "v": "{$god=Cfofb}{%ethicalneutral+2}{%evil+2}{$goddescr=, God of storms, power. (Neutral Evil)}" },
+  { "w": 5, "v": "{$god=Atlatmak}{%lawful+3}{%evil+3}{$goddescr=, Patron Deity of Kobolds. (Lawful Evil)}" },
+  { "w": 1, "v": "{$god=Catequil}{%chaotic+2}{%evil+2}{$goddescr=, Also known as Gregor Catequil, the young, shadowborn god blessed with the power of thunder. (Chaotic Evil)}" }, 
+  { "w": 7, "v": "{$god=Pwazo}{%chaotic+2}{%evil+2}{$goddescr=, Dark Goddess. Goddess of flames, of tyrannical control, and the ex-ruler of Underworld. (Chaotic Evil)}" },
+  { "w": 5, "v": "{$god=Fexyiaf}{%chaotic+1}{%evil+3}{$goddescr=, Goddess of villains, deception, destruction, evocation. (Chaotic Evil)}" },
+  { "w": 5, "v": "{$god=Modgo}{%chaotic+2}{%evil+2}{$goddescr=, God of curses. (Chaotic Evil)}" },
+  { "w": 5, "v": "{$god=Yrchenn}{%chaotic+2}{%evil+2}{$goddescr=, Evil Goddess of sea, fear, punishment. (Chaotic Evil)}" },
+  { "w": 3, "v": "{$god=Cyani}{%lawful+2}{%evil+2}{$goddescr=, God poison, patron of nearly every assassin. (Lawful Evil)}" },
+  { "w": 3, "v": "{$god=Gaajyx}{%evil+2}{%ethicalneutral+2}{$goddescr=, Wicked goddess of wealth. Greedy queen of hoarders. (Neutral Evil)}" },
+  { "w": 3, "v": "{$god=Xua}{%chaotic+2}{%evil+2}{$goddescr=, Patron Goddess of the Drow. Malicious and cruel Goddess of shadows, stealth and secrecy. (Chaotic Evil)}" },
+  { "w": 1, "v": "{$god=Sai}{%lawful+2}{%evil+2}{$goddescr=, Demigod of runes and traps. (Lawful Evil)}" },
+  { "w": 7, "v": "{$god=Guulagh}{%chaotic+2}{%evil+2}{$goddescr=, God of orcs, conquest, survival, strength, territory. (Chaotic Evil)}" },
   { "w": 2, "v": "{demongod}" },
   { "w": 2, "v": "{devilgod}" }
 ]
