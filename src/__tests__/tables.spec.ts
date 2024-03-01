@@ -133,6 +133,15 @@ describe("tables", () => {
 
       function processTable(tableName: string, tableAnalysis: TableAnalysis) {
         const nextTablePaths = tablePaths.concat([tableName]);
+
+        //Check if tableAnalysis is undefined
+        // if (!tableAnalysis) {
+          // console.error(`Table analysis for ${tableName} is undefined.`);
+          // return;
+        // }
+        // console.log(`Processing table: ${tableName}`);
+        // console.log(`Table Analysis:`, tableAnalysis);
+
         // Process all rows of that table
         const rows: Row[] = tableAnalysis.map((row) => processGroups(row.groups, nextTablePaths, groupsDefinitions));
 

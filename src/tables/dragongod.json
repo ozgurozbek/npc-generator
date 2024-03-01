@@ -1,10 +1,10 @@
 [
   { "w": 5, "v": "{$god=Ehx}{$goddescr=, Dragon goddess, creator of all sky. Also known as Coz, Goddess of the sun and Ledr, Goddess of birds. Mother of metallic dragons. (All alignments)}" },
-  { "w": 1, "v": "{$god=Afez}{%moralneutral+2}{%ethicalneutral+2}{$goddescr=, God of belongings. (Neutral Neutral)}" },
+  { "w": 1, "v": "{$god=Afez}{%moralneutral+2}{%ethicalneutral+2}{$goddescr=, God of belongings. (True Neutral)}" },
   { "w": 2, "v": "{$god=Wusor}{%lawful+2}{%moralneutral+2}{$goddescr=, God of magic, also known as Czeyz. (Lawful Neutral)}" },
   { "w": 2, "v": "{$god=Lcaoc}{%lawful+2}{%good+2}{$goddescr=, God of wit, civilization. Right side of Mceeju. Undisputed lord of the Outer Planes. (Lawful Good)}" },
   { "w": 2, "v": "{$god=Nmei}{%lawful+2}{%moralneutral+2}{$goddescr=, God of fire, destruction, renewal. (Lawful Neutral)}" },
-  { "w": 2, "v": "{$god=Mceeju}{%chaotic+2}{%moralneutral+2}{$goddescr=, Root one, the one of joy and light. (Chaotic Neutral)}" },
+  { "w": 2, "v": "{$god=Mceeju}{%chaotic+2}{%moralneutral+5}{$goddescr=, Root one, the one of joy and light. (Chaotic Neutral)}" },
   { "w": 1, "v": "{$god=Zharathuun}{%chaotic+3}{%moralneutral+1}{$goddescr=, Crazed god of madness. (Chaotic Neutral)}" },
   { "w": 15, "v": "{teothegods}" }
 ]

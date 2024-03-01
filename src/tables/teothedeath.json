@@ -1,11 +1,11 @@
 [
-  { "w": 7, "v": "Naahv" },
-  { "w": 5, "v": "Lwaqy" },
-  { "w": 5, "v": "Wodroh" },
-  { "w": 3, "v": "Nepi" },
-  { "w": 3, "v": "Lwaro" },
-  { "w": 2, "v": "Spina" },
-  { "w": 1, "v": "Astro" },
-  { "w": 1, "v": "Oxar Ares" },
-  { "w": 1, "v": "Eve Archambeau" }
+  { "w": 7, "v": "{$god=Naahv}{%lawful+5}{%evil+1}{$goddescr=, Patron Deity of Kobolds. (Lawful Evil)}" },
+  { "w": 5, "v": "{$god=Lwaqy}{%lawful+5}{%moralneutral+1}{$goddescr=, Crying, broken god of pain, darkness and suffering. (Lawful Neutral)}" },
+  { "w": 5, "v": "{$god=Wodroh}{%chaotic+2}{%evil+2}{$goddescr=, God of murder. (Chaotic Evil)}" },
+  { "w": 3, "v": "{$god=Nepi}{%ethicalneutral+2}{%moralneutral+2}{$goddescr=, God of dice, also known as Vopx. (True Neutral)}" },
+  { "w": 3, "v": "{$god=Lwaro}{%chaotic+2}{%evil+2}{$goddescr=, Goddess of blades. (Chaotic Evil)}" },
+  { "w": 2, "v": "{$god=Spina}{%chaotic+2}{%good+2}{$goddescr=, Demigod of thorns, natural pain. (Chaotic Good)}" },
+  { "w": 1, "v": "{$god=Astro}{%ethicalneutral+2}{%evil+2}{$goddescr=, Mage of corruption, also associated with mosquitoes. (Neutral Evil)}" },
+  { "w": 1, "v": "{$god=Oxar Ares}{%chaotic+2}{%moralneutral+2}{$goddescr=, Demigod of chaos, associated with wounds. (Chaotic Neutral)}" },
+  { "w": 1, "v": "{$god=Eve Archambeau}{%chaotic+3}{%evil+1}{$goddescr=, Demigoddess of redemption, also associated with gemstones and jewelry. Commonly addressed as Ruby. (Chaotic Evil)}" }
 ]

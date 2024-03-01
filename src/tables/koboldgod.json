@@ -1,3 +1,4 @@
 [
-  { "w": 1, "v": "{$god=Kurtulmak}{%lawful+3}{%evil+3}{$goddescr=, Patron Deity of Kobolds. (Lawful Evil)}" }
+  { "w": 7, "v": "{$god=Atlatmak}{%lawful+3}{%evil+3}{$goddescr=, Patron Deity of Kobolds. (Lawful Evil)}" },
+  { "w": 1, "v": "{$god=Sai}{%lawful+2}{%evil+2}{$goddescr=, Demigod of runes and traps. (Lawful Evil)}" }
 ]

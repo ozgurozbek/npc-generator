@@ -1,4 +1,4 @@
 [
-  { "w": 9, "v": "Mceeju" },
-  { "w": 1, "v": "Zharathuun" }
+  { "w": 9, "v": "{$god=Mceeju}{%chaotic+2}{%moralneutral+5}{$goddescr=, Root one, the one of joy and light. (Chaotic Neutral)}" },
+  { "w": 1, "v": "{$god=Zharathuun}{%chaotic+3}{%moralneutral+1}{$goddescr=, Crazed god of madness. (Chaotic Neutral)}" }
 ]

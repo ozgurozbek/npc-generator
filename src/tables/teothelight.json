@@ -1,10 +1,10 @@
 [
-  { "w": 7, "v": "Vihi" },
-  { "w": 5, "v": "Vesvjdegz" },
-  { "w": 5, "v": "Wiob" },
-  { "w": 5, "v": "Atlatmak" },
-  { "w": 3, "v": "Raxcoh" },
-  { "w": 3, "v": "Megm" },
-  { "w": 3, "v": "Gaxaca" },
-  { "w": 1, "v": "Czeis" }
+  { "w": 7, "v": "{$god=Vihi}{%ethicalneutral+2}{%good+2}{$goddescr=, Goddess of love and affection, sister responsible from Iz. (Neutral Good)}" },
+  { "w": 5, "v": "{$god=Vesvjdegz}{%chaotic+2}{%good+2}{$goddescr=, God of lightning, also known as Ves and Biaf because of the roaring. (Chaotic Good)}" },
+  { "w": 5, "v": "{$god=Wiob}{%lawful+9}{%good+9}{$goddescr=, Hero of the moon, believed to oversee the Inner Planes. (Lawful Good)}" },
+  { "w": 5, "v": "{$god=Atlatmak}{%lawful+3}{%evil+3}{$goddescr=, Patron Deity of Kobolds. (Lawful Evil)}" },
+  { "w": 3, "v": "{$god=Raxcoh}{%lawful+2}{%good+2}{$goddescr=, The helper god. (Lawful Good)}" },
+  { "w": 3, "v": "{$god=Megm}{%lawful+3}{%moralneutral+1}{$goddescr=, Goddess of architecture and cities, associated with building. (Lawful Neutral)}" },
+  { "w": 3, "v": "{$god=Gaxaca}{%ethicalneutral+3}{%moralneutral+3}{$goddescr=, God of strength. (True Neutral)}" },
+  { "w": 1, "v": "{$god=Czeis}{$goddescr=, Demigod of speed, also associated with news and respect. (All alignments)}" }
 ]

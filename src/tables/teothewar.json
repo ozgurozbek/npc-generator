@@ -1,10 +1,10 @@
 [
-  { "w": 7, "v": "Radu" },
-  { "w": 7, "v": "Guulagh" },
-  { "w": 5, "v": "Gud" },
-  { "w": 5, "v": "Modgo" },
-  { "w": 3, "v": "Maies" },
-  { "w": 3, "v": "Lwaro" },
-  { "w": 1, "v": "Catequil" },
-  { "w": 1, "v": "Czeeg" }
+  { "w": 7, "v": "{$god=Radu}{%ethicalneutral+2}{%good+2}{$goddescr=, God of heroism, inspirations, youth, morning, vitality, self improvement. Believed to be the lord of Overworld. (Neutral Good)}" },
+  { "w": 7, "v": "{$god=Guulagh}{%chaotic+2}{%evil+2}{$goddescr=, God of orcs, conquest, survival, strength, territory. (Chaotic Evil)}" },
+  { "w": 5, "v": "{$god=Gud}{%moralneutral+2}{%chaotic+2}{$goddescr=, God of war, battle, warriors. (Chaotic Neutral)}" },
+  { "w": 5, "v": "{$god=Modgo}{%chaotic+2}{%evil+2}{$goddescr=, God of curses. (Chaotic Evil)}" },
+  { "w": 3, "v": "{$god=Maies}{%moralneutral+2}{%chaotic+2}{$goddescr=, God of battles, also associated with violent takebacks of past promises. (Chaotic Neutral)}" },
+  { "w": 3, "v": "{$god=Lwaro}{%chaotic+2}{%evil+2}{$goddescr=, Goddess of blades. (Chaotic Evil)}" },
+  { "w": 1, "v": "{$god=Catequil}{%chaotic+2}{%evil+2}{$goddescr=, Also known as Gregor Catequil, the young, shadowborn god blessed with the power of thunder. (Chaotic Evil)}" },
+  { "w": 1, "v": "{$god=Czeeg}{%lawful+2}{%moralneutral+2}{$goddescr=, Demigod of spears. (Lawful Neutral)}" }
 ]
