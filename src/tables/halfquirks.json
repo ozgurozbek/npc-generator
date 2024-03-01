@@ -10,5 +10,6 @@
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+lived }{$quirks+$minPoss}{$quirks+early years in a caravan. }" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+never goes anywhere without }{$quirks+$minPoss}{$quirks+best friend. }" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+smiles constantly. }{%cha+1}" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+is paranoid of Virimelle. }{%wis-1}" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+values }{$quirks+$minPoss}{$quirks+community very highly. }" }
 ]
