@@ -22,5 +22,10 @@
   { "w": 1, "name": "Tinker", "v": "{$occupation=tinker}{%int+3}{%dex+2}{kenkunamemetal}" },
   { "w": 1, "name": "Torturer", "v": "{$occupation=torturer}{%cha+2}{%str+2}{%dex+1}{%evil+2}{getevilgod}{kenkunamefighting}" },
   { "w": 2, "name": "Trader", "v": "{$occupation=trader}{%cha+2}{%int+3}{kenkuname}" },
+  { "w": 1, "name": "Runemaster", "v": "{$occupation=runemaster}{%cha+2}{%int+5}{%wis+5}{kenkunamemetal}" },
+  { "w": 2, "name": "Alchemical Dust Trader", "v": "{$occupation=alchemicaltrader}{%cha+2}{%wis+3}{kenkuname}" },
+  { "w": 2, "name": "Illusionist", "v": "{$occupation=illusionist}{%cha+1}{%int+4}{kenkuname}" },
+  { "w": 2, "name": "Gunpowder Trader", "v": "{$occupation=gunpowdertrader}{%cha+2}{%int+1}{kenkunamefighting}" },
+  { "w": 2, "name": "Spell Scroll Trader", "v": "{$occupation=scrolltrader}{%cha+2}{%int+5}{kenkuname}" },
   { "w": 3, "name": "Weaver", "v": "{$occupation=weaver}{%dex+1}{kenkuname}" }
 ]

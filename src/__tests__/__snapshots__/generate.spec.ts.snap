@@ -332,8 +332,28 @@ exports[`generate > returns expected npc options > npc-options 1`] = `
               "value": 22,
             },
             {
-              "name": "Weaver",
+              "name": "Runemaster",
               "value": 23,
+            },
+            {
+              "name": "Alchemical Dust Trader",
+              "value": 24,
+            },
+            {
+              "name": "Illusionist",
+              "value": 25,
+            },
+            {
+              "name": "Gunpowder Trader",
+              "value": 26,
+            },
+            {
+              "name": "Spell Scroll Trader",
+              "value": 27,
+            },
+            {
+              "name": "Weaver",
+              "value": 28,
             },
           ],
           "value": 2,
@@ -460,6 +480,10 @@ exports[`generate > returns expected npc options > npc-options 1`] = `
             {
               "name": "Smuggler",
               "value": 7,
+            },
+            {
+              "name": "Smear Collector",
+              "value": 8,
             },
           ],
           "value": 5,
@@ -713,8 +737,28 @@ exports[`generate > returns expected npc options > npc-options 1`] = `
           "value": 22,
         },
         {
-          "name": "Weaver",
+          "name": "Runemaster",
           "value": 23,
+        },
+        {
+          "name": "Alchemical Dust Trader",
+          "value": 24,
+        },
+        {
+          "name": "Illusionist",
+          "value": 25,
+        },
+        {
+          "name": "Gunpowder Trader",
+          "value": 26,
+        },
+        {
+          "name": "Spell Scroll Trader",
+          "value": 27,
+        },
+        {
+          "name": "Weaver",
+          "value": 28,
         },
       ],
       "value": 2,
@@ -841,6 +885,10 @@ exports[`generate > returns expected npc options > npc-options 1`] = `
         {
           "name": "Smuggler",
           "value": 7,
+        },
+        {
+          "name": "Smear Collector",
+          "value": 8,
         },
       ],
       "value": 5,
@@ -1009,34 +1057,29 @@ exports[`generate > returns expected npc options > npc-options 1`] = `
       "value": 14,
     },
     {
-      "name": "Medusa",
+      "name": "Orc",
       "subraces": undefined,
       "value": 15,
     },
     {
-      "name": "Orc",
+      "name": "Tabaxi",
       "subraces": undefined,
       "value": 16,
     },
     {
-      "name": "Tabaxi",
+      "name": "Tiefling",
       "subraces": undefined,
       "value": 17,
     },
     {
-      "name": "Tiefling",
+      "name": "Triton",
       "subraces": undefined,
       "value": 18,
     },
     {
-      "name": "Triton",
-      "subraces": undefined,
-      "value": 19,
-    },
-    {
       "name": "Troglodyte",
       "subraces": undefined,
-      "value": 20,
+      "value": 19,
     },
   ],
 }

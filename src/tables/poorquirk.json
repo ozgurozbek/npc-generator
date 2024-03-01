@@ -13,5 +13,6 @@
   { "w": 3, "v": "{$quirks+$majPro}{$quirks+always eat like it's }{$quirks+$minPoss}{$quirks+ last meal. }" },
   { "w": 3, "v": "{$quirks+$majPro}{$quirks+shares everything }{$quirks+$minPro}{$quirks+ owns. }{%good+2}" },
   { "w": 3, "v": "{$quirks+$majPro}{$quirks+uses very foul language. }{%chaotic+2}" },
+  { "w": 3, "v": "{$quirks+$majPro}{$quirks+eats mostly smears. }" },
   { "w": 2, "v": "{$quirks+$majPro}{$quirks+doesn't bathe. }{%cha-2}" }
 ]

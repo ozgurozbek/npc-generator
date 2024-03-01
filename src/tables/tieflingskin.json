@@ -1,5 +1,7 @@
 [
   { "w": 4, "v": "{$skin+red}" },
-  { "w": 2, "v": "{$skin+purple}" },
+  { "w": 3, "v": "{$skin+fire red}" },
+  { "w": 2, "v": "{$skin+crimson}" },
+  { "w": 1, "v": "{$skin+purple}" },
   { "w": 1, "v": "{humanskin}" }
 ]

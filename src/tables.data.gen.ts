@@ -181,9 +181,6 @@ import medCon from "./tables/medCon.json"
 import medDex from "./tables/medDex.json"
 import medInt from "./tables/medInt.json"
 import medStr from "./tables/medStr.json"
-import medusahair from "./tables/medusahair.json"
-import medusaname from "./tables/medusaname.json"
-import medusaveil from "./tables/medusaveil.json"
 import medWis from "./tables/medWis.json"
 import militaryquirk from "./tables/militaryquirk.json"
 import missingeye from "./tables/missingeye.json"
@@ -238,7 +235,6 @@ import size from "./tables/size.json"
 import skin from "./tables/skin.json"
 import skinTexture from "./tables/skinTexture.json"
 import skinTone from "./tables/skinTone.json"
-import snakecolor from "./tables/snakecolor.json"
 import specialphysical from "./tables/specialphysical.json"
 import specialphysical1 from "./tables/specialphysical1.json"
 import specialphysical2 from "./tables/specialphysical2.json"
@@ -474,9 +470,6 @@ export default {
   medDex,
   medInt,
   medStr,
-  medusahair,
-  medusaname,
-  medusaveil,
   medWis,
   militaryquirk,
   missingeye,
@@ -531,7 +524,6 @@ export default {
   skin,
   skinTexture,
   skinTone,
-  snakecolor,
   specialphysical,
   specialphysical1,
   specialphysical2,
