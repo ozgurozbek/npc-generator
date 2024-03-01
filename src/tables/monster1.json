@@ -21,5 +21,6 @@
   { "w": 1, "v": "{$monster+air elemental}" },
   { "w": 2, "v": "{$monster+hydra}" },
   { "w": 2, "v": "{$monster+minotaur}" },
-  { "w": 2, "v": "{$monster+naga}" }
+  { "w": 2, "v": "{$monster+naga}" },
+  { "w": 2, "v": "{$monster+ooblex}" }
 ]

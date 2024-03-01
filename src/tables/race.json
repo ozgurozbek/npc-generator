@@ -90,12 +90,6 @@
     "v": "{$race=lizardfolk}{%str+2}{%int+2}{%con+1}{%wis+2}{%cha-2}{%height+15}{%lawful+2}{%chaotic-3}{%good-1}{%evil-1}{%moralneutral+2}{dragongod}{lizardskin}{age}{%age-4}{lizardgender}{lizardtraits1}{lizardquirks}{$beard=}{dragonhair}"
   },
   {
-    "w": 1,
-    "name": "Medusa",
-    "table": "medusa",
-    "v": "{$race=medusa}{%dex+2}{%con+3}{%int+1}{%wis+1}{%cha+2}{%str+1}{female}{medusahair}{%lawful+2}{lightweight}{goodface}{humangod}{orcskin}{age}{ageBonus}{medusaname}{medusaveil}"
-  },
-  {
     "w": 3,
     "name": "Orc",
     "table": "orc",
