@@ -1,12 +1,12 @@
 [
-  { "w": 9, "v": "{Veri}" },
-  { "w": 7, "v": "{Uke}" },
-  { "w": 7, "v": "{Vihi}" },
-  { "w": 3, "v": "{Tezr}" },
-  { "w": 3, "v": "{Lunm}" },
-  { "w": 3, "v": "{Nepi}" },
-  { "w": 3, "v": "{Waqorafe}" },
-  { "w": 3, "v": "{Gaxaca}" },
-  { "w": 1, "v": "{Spina}" },
-  { "w": 1, "v": "{Jenelius Londste}" }
+  { "w": 9, "v": "Veri" },
+  { "w": 7, "v": "Uke" },
+  { "w": 7, "v": "Vihi" },
+  { "w": 3, "v": "Tezr" },
+  { "w": 3, "v": "Lunm" },
+  { "w": 3, "v": "Nepi" },
+  { "w": 3, "v": "Waqorafe" },
+  { "w": 3, "v": "Gaxaca" },
+  { "w": 1, "v": "Spina" },
+  { "w": 1, "v": "Jenelius Londste" }
 ]

@@ -42,32 +42,28 @@ exports[`generate > returns expected npc options > npc-options 1`] = `
       "value": 6,
     },
     {
-      "name": "Mystic",
+      "name": "Paladin",
       "value": 7,
     },
     {
-      "name": "Paladin",
+      "name": "Ranger",
       "value": 8,
     },
     {
-      "name": "Ranger",
+      "name": "Rogue",
       "value": 9,
     },
     {
-      "name": "Rogue",
+      "name": "Sorcerer",
       "value": 10,
     },
     {
-      "name": "Sorcerer",
+      "name": "Warlock",
       "value": 11,
     },
     {
-      "name": "Warlock",
-      "value": 12,
-    },
-    {
       "name": "Wizard",
-      "value": 13,
+      "value": 12,
     },
   ],
   "genders": [
@@ -112,32 +108,28 @@ exports[`generate > returns expected npc options > npc-options 1`] = `
           "value": 6,
         },
         {
-          "name": "Mystic",
+          "name": "Paladin",
           "value": 7,
         },
         {
-          "name": "Paladin",
+          "name": "Ranger",
           "value": 8,
         },
         {
-          "name": "Ranger",
+          "name": "Rogue",
           "value": 9,
         },
         {
-          "name": "Rogue",
+          "name": "Sorcerer",
           "value": 10,
         },
         {
-          "name": "Sorcerer",
+          "name": "Warlock",
           "value": 11,
         },
         {
-          "name": "Warlock",
-          "value": 12,
-        },
-        {
           "name": "Wizard",
-          "value": 13,
+          "value": 12,
         },
       ],
       "name": "Class",

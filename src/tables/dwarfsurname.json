@@ -48,5 +48,7 @@
   { "w": 1, "v": "{$name+ Bronzehide}" },
   { "w": 1, "v": "{$name+ Bloodgrip}" },
   { "w": 1, "v": "{$name+ Bluntchin}" },
-  { "w": 1, "v": "{$name+ Brightbeard}" }
+  { "w": 1, "v": "{$name+ Brightbeard}" },
+  { "w": 1, "v": "{$name+ Purpleson}" },
+  { "w": 1, "v": "{$name+ Horifell}" }
 ]

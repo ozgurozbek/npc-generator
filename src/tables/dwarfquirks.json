@@ -14,5 +14,8 @@
   { "w": 2, "v": "{$quirks+$majPro}{$quirks+cannot take a halfling seriously. }" },
   { "w": 5, "v": "{$quirks+$majPro}{$quirks+harbours a deep hatred of orcs and goblins. }" },
   { "w": 2, "v": "{$quirks+$majPro}{$quirks+has gemcutting as a hobby. }" },
-  { "w": 2, "v": "{$quirks+$majPro}{$quirks+is secretly captivated by elves. }" }
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+is secretly captivated by elves. }" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+is an open admirer of Virimelle. }" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+is unable to drink Violetcraft Beer. }" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+is a dwarf supremacist. }" }
 ]

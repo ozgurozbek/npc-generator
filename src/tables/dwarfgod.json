@@ -1,4 +1,5 @@
 [
-  { "w": 3, "v": "{$god=Moradin}{$goddescr=, God of dwarves, creation, smithing, protection, metalcraft, stonework. (Lawful Good)}" },
-  { "w": 2, "v": "{humangod}" }
+  { "w": 3, "v": "{$god=Tsahnrad}{%lawful+2}{%good+2}{$goddescr=, God of crafting. (Lawful Good)}" },
+  { "w": 6, "v": "{$god=Boghradyn}{%lawful+3}{%good+2}{$goddescr=, The allfather god of the Dwarves. (Lawful Good)}"},
+  { "w": 1, "v": "{teothegods}" }
 ]

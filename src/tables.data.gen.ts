@@ -257,6 +257,17 @@ import tabaxiskintexture from "./tables/tabaxiskintexture.json"
 import tattoo from "./tables/tattoo.json"
 import tattooadj from "./tables/tattooadj.json"
 import tendencies from "./tables/tendencies.json"
+import teothedeath from "./tables/teothedeath.json"
+import teothefundamental from "./tables/teothefundamental.json"
+import teothegods from "./tables/teothegods.json"
+import teotheguilds from "./tables/teotheguilds.json"
+import teotheknowledge from "./tables/teotheknowledge.json"
+import teothelife from "./tables/teothelife.json"
+import teothelight from "./tables/teothelight.json"
+import teothenature from "./tables/teothenature.json"
+import teothetempest from "./tables/teothetempest.json"
+import teothetrickery from "./tables/teothetrickery.json"
+import teothewar from "./tables/teothewar.json"
 import texttat from "./tables/texttat.json"
 import tieflingevilname from "./tables/tieflingevilname.json"
 import tieflinggoodname from "./tables/tieflinggoodname.json"
@@ -539,6 +550,17 @@ export default {
   tattoo,
   tattooadj,
   tendencies,
+  teothedeath,
+  teothefundamental,
+  teothegods,
+  teotheguilds,
+  teotheknowledge,
+  teothelife,
+  teothelight,
+  teothenature,
+  teothetempest,
+  teothetrickery,
+  teothewar,
   texttat,
   tieflingevilname,
   tieflinggoodname,

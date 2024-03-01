@@ -1,11 +1,11 @@
 [
-  { "w": 1, "v": "{{teothefundamental}}" },
-  { "w": 2, "v": "{{teothetrickery}}" },
-  { "w": 2, "v": "{{teothedeath}}" },
-  { "w": 2, "v": "{{teothewar}}" },
-  { "w": 2, "v": "{{teothetempest}}" },
-  { "w": 2, "v": "{{teothelife}}" },
-  { "w": 2, "v": "{{teotheknowledge}}" },
-  { "w": 2, "v": "{{teothelight}}" },
-  { "w": 2, "v": "{{teothenature}}" }
+  { "w": 1, "v": "{teothefundamental}" },
+  { "w": 2, "v": "{teothetrickery}" },
+  { "w": 2, "v": "{teothedeath}" },
+  { "w": 2, "v": "{teothewar}" },
+  { "w": 2, "v": "{teothetempest}" },
+  { "w": 2, "v": "{teothelife}" },
+  { "w": 2, "v": "{teotheknowledge}" },
+  { "w": 2, "v": "{teothelight}" },
+  { "w": 2, "v": "{teothenature}" }
 ]

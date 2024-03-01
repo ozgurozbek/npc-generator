@@ -1,8 +1,7 @@
 [
-  { "w": 5, "v": "{$god=Lolth}{%chaotic+2}{%evil+2}{$goddescr=, Goddess of drows, spiders, darkness, chaos, evil, assassination. (Chaotic Evil)}" },
-  {
-    "w": 1,
-    "v": "{$god=Ghaunadaur}{%chaotic+2}{%evil+2}{$goddescr=, Patron of abominations, oozes, slimes, jellies, outcasts, ropers and rebels. (Chaotic Evil)}"
-  },
-  { "w": 4, "v": "{humangod}" }
+  { "w": 3, "v": "{$god=Yrchenn}{%chaotic+2}{%evil+2}{$goddescr=, Evil Goddess of sea, fear, punishment. (Chaotic Evil)}" },
+  { "w": 5, "v": "{$god=Xua}{%chaotic+2}{%evil+2}{$goddescr=, Patron Goddess of the Drow. Malicious and cruel Goddess of shadows, stealth and secrecy. (Chaotic Evil)}" },
+  { "w": 2, "v": "{$god=Pwazo}{%chaotic+2}{%evil+2}{$goddescr=, Dark Goddess. Goddess of flames, of tyrannical control, and the ex-ruler of Underworld. (Chaotic Evil)}" },
+  { "w": 1, "v": "{$god=Wodroh}{%chaotic+2}{%evil+2}{$goddescr=, God of murder. (Chaotic Evil)}" },
+  { "w": 4, "v": "{teothegods}" }
 ]

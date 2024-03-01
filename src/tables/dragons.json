@@ -1,12 +1,15 @@
 [
-  { "w": 1, "v": "{$dragon=black}" },
-  { "w": 1, "v": "{$dragon=blue}" },
-  { "w": 1, "v": "{$dragon=brass}" },
-  { "w": 1, "v": "{$dragon=bronze}" },
-  { "w": 1, "v": "{$dragon=copper}" },
-  { "w": 1, "v": "{$dragon=gold}" },
-  { "w": 1, "v": "{$dragon=green}" },
-  { "w": 1, "v": "{$dragon=red}" },
-  { "w": 1, "v": "{$dragon=silver}" },
-  { "w": 1, "v": "{$dragon=white}" }
+  { "w": 3, "v": "{$dragon=black}" },
+  { "w": 3, "v": "{$dragon=blue}" },
+  { "w": 3, "v": "{$dragon=brass}" },
+  { "w": 3, "v": "{$dragon=bronze}" },
+  { "w": 3, "v": "{$dragon=copper}" },
+  { "w": 3, "v": "{$dragon=gold}" },
+  { "w": 3, "v": "{$dragon=green}" },
+  { "w": 3, "v": "{$dragon=red}" },
+  { "w": 3, "v": "{$dragon=silver}" },
+  { "w": 3, "v": "{$dragon=white}" },
+  { "w": 1, "v": "{$dragon=shadow}" },
+  { "w": 1, "v": "{$dragon=ethereal}" },
+  { "w": 1, "v": "{$dragon=fey}" }
 ]

@@ -1,8 +1,6 @@
 [
-  { "w": 6, "v": "{$god=Laduguer}{%lawful+2}{%evil+2}{$goddescr=, Duergar God of Crafting. (Lawful Evil)}" },
-  {
-    "w": 2,
-    "v": "{$god=Deep Duerra}{%lawful+2}{%evil+2}{$goddescr=, Duergar Goddess of conquest, expansion, and psionics. (Lawful Evil)}"
-  },
+  { "w": 1, "v": "{$god=Wodroh}{%chaotic+2}{%evil+2}{$goddescr=, God of murder. (Chaotic Evil)}" },
+  { "w": 3, "v": "{$god=Tsahnrad}{%lawful+2}{%good+2}{$goddescr=, God of crafting. (Lawful Good)}" },
+  { "w": 2, "v": "{$god=Boghradyn}{%lawful+3}{%good+2}{$goddescr=, The allfather god of the Dwarves. (Lawful Good)}"},
   { "w": 1, "v": "{dwarfgod}" }
 ]
