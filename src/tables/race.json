@@ -79,6 +79,12 @@
   },
   {
     "w": 2,
+    "name": "Aarakocra",
+    "table": "aarakocra",
+    "v": "{$race=aarakocra}{%str-1}{%dex+3}{%int+1}{%wis+1}{%cha+2}{%height+10}{%lawful+1}{%chaotic+1}{%good-1}{%evil-1}{%moralneutral+2}{humangod}{aarakocraskin}{age}{%age-6}{gender}{kenkuquirks}{$beard=}{$hair=}{aarakocraname}{$name=$aarakocraname}"
+  },
+  {
+    "w": 2,
     "name": "Kobold",
     "table": "kobold",
     "v": "{$race=kobold}{%str+2}{%int+2}{%con+1}{%wis+2}{%cha-2}{%height-15}{%lawful-2}{%chaotic+4}{%good-1}{%evil+1}{%moralneutral+1}{koboldgod}{koboldskin}{age}{%age-4}{koboldgender}{koboldtraits1}{koboldquirks}{$beard=}{dragonhair}"

@@ -1,4 +1,7 @@
 // This file is generated automatically. Do not edit it manually.
+import aarakocracolor from "./tables/aarakocracolor.json"
+import aarakocraname from "./tables/aarakocraname.json"
+import aarakocraskin from "./tables/aarakocraskin.json"
 import aasimarevilquirk from "./tables/aasimarevilquirk.json"
 import aasimargoodorevil from "./tables/aasimargoodorevil.json"
 import aasimargoodquirk from "./tables/aasimargoodquirk.json"
@@ -288,6 +291,9 @@ import workClass from "./tables/workClass.json"
 import worship from "./tables/worship.json"
 
 export default {
+  aarakocracolor,
+  aarakocraname,
+  aarakocraskin,
   aasimarevilquirk,
   aasimargoodorevil,
   aasimargoodquirk,
