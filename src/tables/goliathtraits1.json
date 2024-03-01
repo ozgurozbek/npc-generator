@@ -1,5 +1,6 @@
 [
   { "w": 2, "v": "{$goliathtraits=$majPro}{$goliathtraits+is very competitive. }" },
+  { "w": 2, "v": "{$goliathtraits=$majPro}{$goliathtraits+thinks spellcasting is cheating. }" },
   { "w": 2, "v": "{$goliathtraits=$majPro}{$goliathtraits+sees everything as a challenge. }" },
   { "w": 2, "v": "{$goliathtraits=$majPro}{$goliathtraits+values skill and talent over all else. }" },
   { "w": 2, "v": "{$goliathtraits=$majPro}{$goliathtraits+always keeps score. }" },
