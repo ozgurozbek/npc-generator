@@ -938,14 +938,19 @@ exports[`generate > returns expected npc options > npc-options 1`] = `
   ],
   "races": [
     {
-      "name": "Aasimar",
+      "name": "Aarakocra",
       "subraces": undefined,
       "value": 0,
     },
     {
-      "name": "Dragonborn",
+      "name": "Aasimar",
       "subraces": undefined,
       "value": 1,
+    },
+    {
+      "name": "Dragonborn",
+      "subraces": undefined,
+      "value": 2,
     },
     {
       "name": "Dwarf",
@@ -963,7 +968,7 @@ exports[`generate > returns expected npc options > npc-options 1`] = `
           "value": 2,
         },
       ],
-      "value": 2,
+      "value": 3,
     },
     {
       "name": "Elf",
@@ -981,12 +986,12 @@ exports[`generate > returns expected npc options > npc-options 1`] = `
           "value": 2,
         },
       ],
-      "value": 3,
+      "value": 4,
     },
     {
       "name": "Firbolg",
       "subraces": undefined,
-      "value": 4,
+      "value": 5,
     },
     {
       "name": "Gnome",
@@ -1000,17 +1005,17 @@ exports[`generate > returns expected npc options > npc-options 1`] = `
           "value": 1,
         },
       ],
-      "value": 5,
+      "value": 6,
     },
     {
       "name": "Goblin",
       "subraces": undefined,
-      "value": 6,
+      "value": 7,
     },
     {
       "name": "Goliath",
       "subraces": undefined,
-      "value": 7,
+      "value": 8,
     },
     {
       "name": "Halfling",
@@ -1024,30 +1029,25 @@ exports[`generate > returns expected npc options > npc-options 1`] = `
           "value": 1,
         },
       ],
-      "value": 8,
+      "value": 9,
     },
     {
       "name": "Half-Elf",
       "subraces": undefined,
-      "value": 9,
+      "value": 10,
     },
     {
       "name": "Half-Orc",
       "subraces": undefined,
-      "value": 10,
+      "value": 11,
     },
     {
       "name": "Human",
       "subraces": undefined,
-      "value": 11,
-    },
-    {
-      "name": "Kenku",
-      "subraces": undefined,
       "value": 12,
     },
     {
-      "name": "Aarakocra",
+      "name": "Kenku",
       "subraces": undefined,
       "value": 13,
     },

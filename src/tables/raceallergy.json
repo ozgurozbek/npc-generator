@@ -9,5 +9,6 @@
   { "w": 2, "v": "{$racea=halflings}" },
   { "w": 1, "v": "{$racea=orcs}" },
   { "w": 1, "v": "{$racea=goblins}" },
-  { "w": 1, "v": "{$racea=kobolds}" }
+  { "w": 1, "v": "{$racea=kobolds}" },
+  { "w": 1, "v": "{$racea=aarakocras}" }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "w": 3,
+    "name": "Aarakocra",
+    "table": "aarakocra",
+    "v": "{$race=aarakocra}{%str-1}{%dex+3}{%int+1}{%wis+1}{%cha+2}{%height+10}{%lawful+1}{%chaotic+1}{%good-1}{%evil-1}{%moralneutral+2}{humangod}{aarakocraskin}{age}{%age-6}{gender}{kenkuquirks}{$beard=}{$hair=}{aarakocraname}{$name=$aarakocraname}"
+  },
+  {
     "w": 2,
     "name": "Aasimar",
     "table": "aasimar",
@@ -76,12 +82,6 @@
     "name": "Kenku",
     "table": "kenku",
     "v": "{$race=kenku}{%str-2}{%dex+3}{%int+1}{%wis+1}{%cha+1}{%height-28}{%lawful-2}{%chaotic+3}{%good-1}{%evil-1}{%moralneutral+2}{humangod}{kenkuskin}{age}{%age-6}{gender}{kenkuquirks}{$beard=}{$hair=}{kenkuname}{$name=$kenkuname}"
-  },
-  {
-    "w": 2,
-    "name": "Aarakocra",
-    "table": "aarakocra",
-    "v": "{$race=aarakocra}{%str-1}{%dex+3}{%int+1}{%wis+1}{%cha+2}{%height+10}{%lawful+1}{%chaotic+1}{%good-1}{%evil-1}{%moralneutral+2}{humangod}{aarakocraskin}{age}{%age-6}{gender}{kenkuquirks}{$beard=}{$hair=}{aarakocraname}{$name=$aarakocraname}"
   },
   {
     "w": 2,
