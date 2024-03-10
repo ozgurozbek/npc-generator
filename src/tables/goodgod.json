@@ -1,6 +1,5 @@
 [
   { "w": 7, "v": "{$god=Radu}{%ethicalneutral+2}{%good+2}{$goddescr=, God of heroism, inspirations, youth, morning, vitality, self improvement. Believed to be the lord of Overworld. (Neutral Good)}" },
-  { "w": 7, "v": "{$god=Radu}{%ethicalneutral+2}{%good+2}{$goddescr=, God of heroism, inspirations, youth, morning, vitality, self improvement. Believed to be the lord of Overworld. (Neutral Good)}" },
   { "w": 7, "v": "{$god=Boghradyn}{%lawful+3}{%good+2}{$goddescr=, The allfather god of the Dwarves. (Lawful Good)}" },
   { "w": 3, "v": "{$god=Raxcoh}{%lawful+3}{%good+2}{$goddescr=, The helper god. (Lawful Good)}" },
   { "w": 7, "v": "{$god=Yr'snn}{%lawful+2}{%good+2}{$goddescr=, Creator of Elves and patron of all things in elf values. (Lawful Good)}" },

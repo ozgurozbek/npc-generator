@@ -1,5 +1,5 @@
 [
-  { "w": 7, "v": "{$god=Naahv}{%lawful+5}{%evil+1}{$goddescr=, Patron Deity of Kobolds. (Lawful Evil)}" },
+  { "w": 7, "v": "{$god=Naahv}{%lawful+5}{%evil+1}{$goddescr=, God of Death. (Lawful Evil)}" },
   { "w": 5, "v": "{$god=Lwaqy}{%lawful+5}{%moralneutral+1}{$goddescr=, Crying, broken god of pain, darkness and suffering. (Lawful Neutral)}" },
   { "w": 5, "v": "{$god=Wodroh}{%chaotic+2}{%evil+2}{$goddescr=, God of murder. (Chaotic Evil)}" },
   { "w": 3, "v": "{$god=Nepi}{%ethicalneutral+2}{%moralneutral+2}{$goddescr=, God of dice, also known as Vopx. (True Neutral)}" },

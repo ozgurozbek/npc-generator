@@ -8,5 +8,7 @@
   { "w": 2, "v": "{$color=black}" },
   { "w": 2, "v": "{$color=white}" },
   { "w": 1, "v": "{$color=gray}" },
-  { "w": 1, "v": "{$color=purple}" }
+  { "w": 1, "v": "{$color=purple}" },
+  { "w": 1, "v": "{$color=turquoise}" },
+  { "w": 1, "v": "{$color=orange}" }
 ]

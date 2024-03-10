@@ -109,5 +109,7 @@
   { "w": 1, "v": "{$name=Vargach}" },
   { "w": 1, "v": "{$name=Verthica}" },
   { "w": 1, "v": "{$name=Vutha}" },
-  { "w": 1, "v": "{$name=Vyth}" }
+  { "w": 1, "v": "{$name=Vyth}" },
+  { "w": 1, "v": "{$name=Kreiz}" },
+  { "w": 1, "v": "{$name=Louen}" }
 ]

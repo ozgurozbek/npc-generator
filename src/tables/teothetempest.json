@@ -1,5 +1,5 @@
 [
-  { "w": 9, "v": "{$god=Nmei}{%lawful+2}{%moralneutral+2}{$goddescr=, God of fire, destruction, renewal. (Lawful Neutral)}" },
+  { "w": 9, "v": "{$god=Nmei}{%lawful+2}{%moralneutral+2}{$goddescr=, God of fate, left side of Mceeju. (Lawful Neutral)}" },
   { "w": 9, "v": "{$god=Veri}{%ethicalneutral+2}{%moralneutral+2}{$goddescr=, Goddess of life, sister responsible from Iz. The most widespread worshipped deity. (True Neutral)}" },
   { "w": 7, "v": "{$god=Cyaxo}{%ethicalneutral+2}{%moralneutral+2}{$goddescr=, Snake god, creator of all land. Also known as Dcei, God of forests. God of tamed nature, crops, breeding animals and farming. (True Neutral)}" },
   { "w": 7, "v": "{$god=Ehx}{$goddescr=, Dragon goddess, creator of all sky. Also known as Coz, Goddess of the sun and Ledr, Goddess of birds. Mother of metallic dragons. (All alignments)}" },

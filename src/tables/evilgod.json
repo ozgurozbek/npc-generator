@@ -1,5 +1,5 @@
 [
-  { "w": 7, "v": "{$god=Naahv}{%lawful+5}{%evil+1}{$goddescr=, Patron Deity of Kobolds. (Lawful Evil)}" },
+  { "w": 7, "v": "{$god=Naahv}{%lawful+5}{%evil+1}{$goddescr=, God of Death. (Lawful Evil)}" },
   { "w": 5, "v": "{$god=Wodroh}{%chaotic+2}{%evil+2}{$goddescr=, God of murder. (Chaotic Evil)}" },
   { "w": 3, "v": "{$god=Lwaro}{%chaotic+2}{%evil+2}{$goddescr=, Goddess of blades. (Chaotic Evil)}" },
   { "w": 1, "v": "{$god=Astro}{%ethicalneutral+2}{%evil+2}{$goddescr=, Mage of corruption, also associated with mosquitoes. (Neutral Evil)}" },

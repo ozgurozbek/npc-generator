@@ -1,5 +1,6 @@
 [
   { "w": 18, "v": "{$quirks+}" },
+  { "w": 8, "v": "{$quirks+$majPro}{$quirks+only mates within the family. }" },
   { "w": 3, "v": "{$quirks+$majPro}{$quirks+will always try to perch }{$quirks+$minHim}{$quirks+self on furniture. }" },
   { "w": 3, "v": "{$quirks+$majPro}{$quirks+spends most of }{$quirks+$minPoss}{$quirks+free time on the top of buildings. }" },
   { "w": 3, "v": "{$quirks+$majPro}{$quirks+finds repetitive tasks soothing. }" },

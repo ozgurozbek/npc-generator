@@ -6,5 +6,6 @@
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to raise an army of followers. }{%cha+2}" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to eradicate good aasimars. }" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to eradicate followers of good gods. }" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to open ancient gates of Teothe. }" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks mindless destruction }{%chaotic+3}" }
 ]

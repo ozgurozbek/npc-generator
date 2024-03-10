@@ -1,9 +1,9 @@
 [
   { "w": 12, "v": "{$kenkuname+}" },
-  { "w": 1, "v": "{$kenkuname=Bang}" },
-  { "w": 1, "v": "{$kenkuname=Clang}" },
-  { "w": 1, "v": "{$kenkuname=Scissor}" },
-  { "w": 1, "v": "{$kenkuname=Hammer}" },
-  { "w": 1, "v": "{$kenkuname=Click}" },
-  { "w": 1, "v": "{$kenkuname=Anvil}" }
+  { "w": 1, "v": "{$kenkuname=B!-Ang}" },
+  { "w": 1, "v": "{$kenkuname=C!-Lang}" },
+  { "w": 1, "v": "{$kenkuname=S!-Cissor}" },
+  { "w": 1, "v": "{$kenkuname=H!-Ammer}" },
+  { "w": 1, "v": "{$kenkuname=C!-Lick}" },
+  { "w": 1, "v": "{$kenkuname=A!-Nvil}" }
 ]

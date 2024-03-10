@@ -50,6 +50,10 @@
   { "w": 2, "v": "{$sphy1+tattoo of a jellyfish}" },
   { "w": 2, "v": "{$sphy1+tattoo of a chimera}" },
   { "w": 2, "v": "{$sphy1+tattoo of a kraken}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a dolphin}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a sloth}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a aurochs}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a tressym}" },
   { "w": 2, "v": "{$sphy1+tattoo of a beholder}" },
   { "w": 2, "v": "{$sphy1+tattoo of an illithid}" },
   { "w": 2, "v": "{$sphy1+tattoo of a goblin}" },
@@ -66,5 +70,10 @@
   { "w": 2, "v": "{$sphy1+tattoo of a vampire}" },
   { "w": 2, "v": "{$sphy1+tattoo of an elemental}" },
   { "w": 2, "v": "{$sphy1+tattoo of a banshee}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a baboon}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a bat}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a dinosaur}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a boar}" },
+  { "w": 2, "v": "{$sphy1+tattoo of a platypus}" },
   { "w": 2, "v": "{$sphy1+tattoo of a mimic}" }
 ]
