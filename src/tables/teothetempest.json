@@ -13,5 +13,5 @@
   { "w": 3, "v": "{$god=Wadqwofm}{%moralneutral+2}{%ethicalneutral+2}{$goddescr=, God of merchants. (True Neutral)}" },
   { "w": 3, "v": "{$god=Gaxaca}{%ethicalneutral+3}{%moralneutral+3}{$goddescr=, God of strength. (True Neutral)}" },
   { "w": 1, "v": "{$god=Catequil}{%chaotic+2}{%evil+2}{$goddescr=, Also known as Gregor Catequil, the young, shadowborn god blessed with the power of thunder. (Chaotic Evil)}" }, 
-  { "w": 1, "v": "{$god=Jenelius Londste}{%chaotic+1}{%moralneutral+3}{$goddescr=, Demigoddess of devotion, usually associated with fanatic determination. (Chaotic Neutral)}" }
+  { "w": 3, "v": "{$god=Jenelius Londste}{%chaotic+1}{%moralneutral+3}{$goddescr=, Goddess of devotion, usually associated with fanatic determination. (Chaotic Neutral)}" }
 ]

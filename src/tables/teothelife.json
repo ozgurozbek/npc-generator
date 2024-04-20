@@ -4,9 +4,9 @@
   { "w": 7, "v": "{$god=Vihi}{%ethicalneutral+2}{%good+2}{$goddescr=, Goddess of love and affection, sister responsible from Iz. (Neutral Good)}" },
   { "w": 3, "v": "{$god=Tezr}{%ethicalneutral+2}{%good+2}{$goddescr=, God of flowers. (Neutral Good)}" },
   { "w": 3, "v": "{$god=Lunm}{$goddescr=, God of childbirth, also known as Msiys. (All alignments)}" },
-  { "w": 3, "v": "{$god=Nepi}{%ethicalneutral+2}{%moralneutral+2}{$goddescr=, God of dice, also known as Vopx. (True Neutral)}" },
+  { "w": 2, "v": "{$god=Nepi}{%ethicalneutral+2}{%moralneutral+2}{$goddescr=, God of dice, also known as Vopx. (True Neutral)}" },
   { "w": 3, "v": "{$god=Waqorafe}{%ethicalneutral+1}{%good+3}{$goddescr=, God of medicine. (Neutral Good)}" },
   { "w": 3, "v": "{$god=Gaxaca}{%ethicalneutral+3}{%moralneutral+3}{$goddescr=, God of strength. (True Neutral)}" },
-  { "w": 1, "v": "{$god=Spina}{%chaotic+2}{%good+2}{$goddescr=, Demigod of thorns, natural pain. (Chaotic Good)}" },
-  { "w": 1, "v": "{$god=Jenelius Londste}{%chaotic+1}{%moralneutral+3}{$goddescr=, Demigoddess of devotion, usually associated with fanatic determination. (Chaotic Neutral)}" }
+  { "w": 2, "v": "{$god=Spina}{%chaotic+2}{%good+2}{$goddescr=, Demigod of thorns, natural pain. (Chaotic Good)}" },
+  { "w": 3, "v": "{$god=Jenelius Londste}{%chaotic+1}{%moralneutral+3}{$goddescr=, Goddess of devotion, usually associated with fanatic determination. (Chaotic Neutral)}" }
 ]

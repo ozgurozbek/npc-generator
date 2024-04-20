@@ -15,7 +15,6 @@
   { "w": 7, "v": "{$god=Vihi}{%ethicalneutral+2}{%good+2}{$goddescr=, Goddess of love and affection, sister responsible from Iz. (Neutral Good)}" },
   { "w": 3, "v": "{$god=Tezr}{%ethicalneutral+2}{%good+2}{$goddescr=, God of flowers. (Neutral Good)}" },
   { "w": 3, "v": "{$god=Waqorafe}{%ethicalneutral+1}{%good+3}{$goddescr=, God of medicine. (Neutral Good)}" },
-  { "w": 1, "v": "{$god=Spina}{%chaotic+2}{%good+2}{$goddescr=, Demigod of thorns, natural pain. (Chaotic Good)}" },
   { "w": 9, "v": "{$god=Lcaoc}{%lawful+2}{%good+2}{$goddescr=, God of wit, civilization. Right side of Mceeju. Undisputed lord of the Outer Planes. (Lawful Good)}" },
   { "w": 7, "v": "{$god=Boghradyn}{%lawful+3}{%good+2}{$goddescr=, The allfather god of the Dwarves. (Lawful Good)}" },
   { "w": 7, "v": "{$god=Yr'snn}{%lawful+2}{%good+2}{$goddescr=, Creator of Elves and patron of all things in elf values. (Lawful Good)}" },

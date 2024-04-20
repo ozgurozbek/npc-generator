@@ -12,5 +12,5 @@
   { "w": 1, "v": "{$god=Xenia}{%chaotic+2}{%moralneutral+2}{$goddescr=, Demigoddess of hallucinogens. (Chaotic Neutral)}" },
   { "w": 1, "v": "{$god=Sai}{%lawful+2}{%evil+2}{$goddescr=, Demigod of runes and traps. (Lawful Evil)}" },
   { "w": 1, "v": "{$god=Anomenada}{%lawful+2}{%moralneutral+1}{$goddescr=, Demigoddess of alchemy. (Lawful Neutral)}" },
-  { "w": 1, "v": "{$god=Eve Archambeau}{%chaotic+3}{%evil+1}{$goddescr=, Demigoddess of redemption, also associated with gemstones and jewelry. Commonly addressed as Ruby. (Chaotic Evil)}" }
+  { "w": 3, "v": "{$god=Eve Archambeau}{%chaotic+3}{%evil+1}{$goddescr=, Goddess of redemption, also associated with gemstones and jewelry. Commonly addressed as Ruby. (Chaotic Evil)}" }
 ]

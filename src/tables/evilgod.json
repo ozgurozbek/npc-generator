@@ -3,7 +3,7 @@
   { "w": 5, "v": "{$god=Wodroh}{%chaotic+2}{%evil+2}{$goddescr=, God of murder. (Chaotic Evil)}" },
   { "w": 3, "v": "{$god=Lwaro}{%chaotic+2}{%evil+2}{$goddescr=, Goddess of blades. (Chaotic Evil)}" },
   { "w": 1, "v": "{$god=Astro}{%ethicalneutral+2}{%evil+2}{$goddescr=, Mage of corruption, also associated with mosquitoes. (Neutral Evil)}" },
-  { "w": 1, "v": "{$god=Eve Archambeau}{%chaotic+3}{%evil+1}{$goddescr=, Demigoddess of redemption, also associated with gemstones and jewelry. Commonly addressed as Ruby. (Chaotic Evil)}" },
+  { "w": 3, "v": "{$god=Eve Archambeau}{%chaotic+3}{%evil+1}{$goddescr=, Goddess of redemption, also associated with gemstones and jewelry. Commonly addressed as Ruby. (Chaotic Evil)}" },
   { "w": 5, "v": "{$god=Cfofb}{%ethicalneutral+2}{%evil+2}{$goddescr=, God of storms, power. (Neutral Evil)}" },
   { "w": 5, "v": "{$god=Atlatmak}{%lawful+3}{%evil+3}{$goddescr=, Patron Deity of Kobolds. (Lawful Evil)}" },
   { "w": 1, "v": "{$god=Catequil}{%chaotic+2}{%evil+2}{$goddescr=, Also known as Gregor Catequil, the young, shadowborn god blessed with the power of thunder. (Chaotic Evil)}" }, 
