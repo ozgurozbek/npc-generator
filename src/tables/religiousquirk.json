@@ -13,5 +13,7 @@
   { "w": 2, "v": "{$quirks+$majPro}{$quirks+carries out a complicated religious ritual every morning. }" },
   { "w": 2, "v": "{$quirks+$majPro}{$quirks+will }{frequency}{$quirks+$fr}{$quirks+ pray at inopportune moments. }" },
   { "w": 2, "v": "{$quirks+$majPro}{$quirks+tries to convert everyone }{$quirks+$minPro}{$quirks+meets. }" },
-  { "w": 2, "v": "{$quirks+$majPro}{$quirks+idolizes a religious hero. }" }
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+idolizes a religious hero. }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+has mental strength and doesn't crumble under stress. }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+doesn't judge people often, will consider even the wildest claims. }{%int+1}" }
 ]

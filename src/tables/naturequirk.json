@@ -9,6 +9,8 @@
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+is a vegan. }{%good+1}" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+is a vocal vegan. }{%good+1}" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+is a secret vegan. }{%good+1}" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+is a vocal smearatarian. }{%chaotic+1}" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+is a secret smearatarian. }{%chaotic+1}" },
   { "w": 3, "v": "{$quirks+$majPro}{frequency}{$quirks+$fr}{$quirks+ talks to plants. }" },
   { "w": 4, "v": "{$quirks+$majPro}{$quirks+feels uncomfortable in a urban setting. }" },
   { "w": 3, "v": "{$quirks+$majPro}{$quirks+is a very proficient herbalist. }" },
@@ -17,5 +19,7 @@
   { "w": 3, "v": "{$quirks+$majPro}{$quirks+can always find }{$quirks+$minPoss}{$quirks+way in the woods. }" },
   { "w": 3, "v": "{$quirks+$majPro}{$quirks+loves eating fresh aliments. }" },
   { "w": 3, "v": "{$quirks+$majPro}{$quirks+can tame any animal. }{%wis+1}" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+loves animals, and tends to be surrounded by them. }{%cha+1}" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+can't stand animals, and often tries to avoid them. }{%cha-1}" },
   { "w": 3, "v": "{$quirks+$majPro}{$quirks+will never take a life if given the choice. }{%good+2}{%evil-2}" }
 ]

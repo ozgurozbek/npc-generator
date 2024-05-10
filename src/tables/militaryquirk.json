@@ -10,5 +10,6 @@
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+judges people on their fighting skills. }" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+used to be bullied as a child and learned to fight so that it wouldn't happen again. }" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+always obeys }{$quirks+$minPoss}{$quirks+ superiors. }" },
-  { "w": 1, "v": "{$quirks+$majPro}{$quirks+always has a battle story to tell. }" }
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+always has a battle story to tell. }" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+wants to enhance their body through artifice or magic. }{%wis-1}" }
 ]

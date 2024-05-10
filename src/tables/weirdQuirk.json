@@ -15,5 +15,7 @@
   { "w": 2, "v": "{$quirks+$majPro}{$quirks+doesn't tolerate nicknames. }" },
   { "w": 2, "v": "{$quirks+$majPro}{$quirks+keeps a list of all }{$quirks+$minPoss}{$quirks+fallen enemies. }" },
   { "w": 2, "v": "{$quirks+$majPro}{$quirks+has an imaginary friend. }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+doesn't stop working on something until it is perfect. }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+does what they need to do to get something they don't have. }" },
   { "w": 2, "v": "{$quirks+$majPro}{frequency}{$quirks+$fr}{$quirks+ changes name. }" }
 ]

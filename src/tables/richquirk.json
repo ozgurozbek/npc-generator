@@ -18,5 +18,8 @@
   { "w": 2, "v": "{$quirks+$majPro}{$quirks+doesn't like parting with }{$quirks+$minPoss}{$quirks+money or possessions. } {%evil+1}" },
   { "w": 2, "v": "{$quirks+$majPro}{$quirks+has a very regal look. }{%cha+1}" },
   { "w": 2, "v": "{$quirks+$majPro}{$quirks+considers everyone else as idiots. }{%int+1}" },
-  { "w": 2, "v": "{$quirks+$majPro}{$quirks+has very little practical experience. }" }
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+has very little practical experience. }" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+cooks a lot and obsessively. }" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+always focuses on their job, starts feeling uneasy when not working. }" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+has forsaken physical comforts and enjoyments, enjoys simplicity. }" }
 ]
