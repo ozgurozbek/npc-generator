@@ -48,5 +48,10 @@
   { "w": 1, "v": "{$name+ Greenhill}" },
   { "w": 1, "v": "{$name+ Headstrong}" },
   { "w": 1, "v": "{$name+ Barrowes}" },
-  { "w": 1, "v": "{$name+ Brandywood}" }
+  { "w": 1, "v": "{$name+ Brandywood}" },
+  { "w": 1, "v": "{$name+ Baggins}" },
+  { "w": 1, "v": "{$name+ Brandybuck}" },
+  { "w": 1, "v": "{$name+ Took}" },
+  { "w": 1, "v": "{$name+ Greenleaf}" },
+  { "w": 1, "v": "{$name+ Gamgee}" }
 ]
