@@ -1,0 +1,19 @@
+[
+  { "w": 12, "v": "{$quirks+}" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+has no respect for creatures without scales. }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+refers to all non-Warforged as 'fleshlings,' regardless of species. }" },
+  { "w": 3, "v": "{$quirks+$majPro}{$quirks+is obsessed with perfecting their own joints and moving parts. }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+speaks in a monotone voice, unable to grasp inflections. }" },
+  { "w": 3, "v": "{$quirks+$majPro}{$quirks+believes everything should serve a function, including art and decoration. }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+polishes their metal parts obsessively, believing cleanliness equals efficiency. }" },
+  { "w": 4, "v": "{$quirks+$majPro}{$quirks+sees no distinction between life and death, viewing both as states of matter. }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+has a fascination with fire, staring at flames for hours without blinking. }" },
+  { "w": 3, "v": "{$quirks+$majPro}{$quirks+collects discarded gears and cogs, believing them to hold forgotten memories. }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+finds organic emotions irrational, yet tries to mimic them. }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+refers to time in exact increments (e.g., '3 hours and 27 minutes ago'). }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+doesn't understand why organic beings need to sleep. }" },
+  { "w": 4, "v": "{$quirks+$majPro}{$quirks+attempts to 'repair' wounded creatures with mechanical tools, regardless of biology. }" },
+  { "w": 3, "v": "{$quirks+$majPro}{$quirks+believes that wearing armor is redundant and pointless for non-Warforged. }" },
+  { "w": 2, "v": "{$quirks+$majPro}{$quirks+doesn't understand the concept of beauty, only efficiency. }" },
+  { "w": 3, "v": "{$quirks+$majPro}{$quirks+has an aversion to rust, viewing it as a personal failure. }" }
+]

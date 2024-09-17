@@ -80,6 +80,7 @@ export interface Npc {
   ptraits: {
     traitslizards: string;
     traitsgoliaths: string;
+    traitswarforged: string;
     traits1: string;
     traits2: string;
   };

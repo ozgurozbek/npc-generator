@@ -1,0 +1,6 @@
+[
+  { "w": 1, "v": "{male}{warforgednamemale}" },
+  { "w": 1, "v": "{female}{warforgednamefemale}" },
+  { "w": 1, "v": "{male}{warforgedname}" },
+  { "w": 1, "v": "{female}{warforgedname}" }
+]

@@ -78,6 +78,7 @@ describe("generate", () => {
       expect.objectContaining({
         traitslizards: expect.any(String),
         traitsgoliaths: expect.any(String),
+        traitswarforged: expect.any(String),
         traits1: expect.any(String),
         traits2: expect.any(String),
       }),

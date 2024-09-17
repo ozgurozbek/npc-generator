@@ -1086,6 +1086,11 @@ exports[`generate > returns expected npc options > npc-options 1`] = `
       "subraces": undefined,
       "value": 20,
     },
+    {
+      "name": "Warforged",
+      "subraces": undefined,
+      "value": 21,
+    },
   ],
 }
 `;

@@ -1,0 +1,12 @@
+[
+  { "w": 2, "v": "{$warforgedtraits=$majPro}{$warforgedtraits+never tires and can function without sleep. }{%dex+1}" },
+  { "w": 2, "v": "{$warforgedtraits=$majPro}{$warforgedtraits+follows orders with strict precision, regardless of personal risk. }{%wis-2}" },
+  { "w": 2, "v": "{$warforgedtraits=$majPro}{$warforgedtraits+has no sense of taste or smell. }" },
+  { "w": 2, "v": "{$warforgedtraits=$majPro}{$warforgedtraits+feels no physical pain. }" },
+  { "w": 2, "v": "{$warforgedtraits=$majPro}{$warforgedtraits+is always methodical and logical in decision-making. }" },
+  { "w": 2, "v": "{$warforgedtraits=$majPro}{$warforgedtraits+views life as a series of tasks to be completed. }" },
+  { "w": 2, "v": "{$warforgedtraits=$majPro}{$warforgedtraits+does not comprehend the concept of aging or mortality. }" },
+  { "w": 2, "v": "{$warforgedtraits=$majPro}{$warforgedtraits+prioritizes efficiency in all actions. }{%int+2}" },
+  { "w": 2, "v": "{$warforgedtraits=$majPro}{$warforgedtraits+has an innate resistance to disease and poison. }" },
+  { "w": 2, "v": "{$warforgedtraits=$majPro}{$warforgedtraits+never feels fear, only calculation of threat levels. }{%cha+1}" }
+]

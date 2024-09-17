@@ -124,5 +124,11 @@
     "name": "Troglodyte",
     "table": "troglodyte",
     "v": "{$race=troglodyte}{%str+1}{%con+1}{%int-4}{%cha-4}{%good-2}{%chaotic+3}{%evil+2}{humangod}{lizardskin}{$beard=}{dragonhair}{age}{gender}{goblinname}"
+  },
+  {
+    "w": 3,
+    "name": "Warforged",
+    "table": "warforged",
+    "v": "{$race=warforged}{%con+2}{%str+1}{%dex+1}{%height+15}{%lawful+3}{%good+1}{warforgedbuild}{humangod}{warforgedskin}{age}{ageBonus}{warforgedtruth}{warforgedgender}{warforgedtraits}{warforgedquirks}"
   }
 ]
