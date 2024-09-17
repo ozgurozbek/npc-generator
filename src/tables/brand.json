@@ -1,10 +1,10 @@
 [
-  { "w": 8, "v": "{$sphy1+slave}" },
+  { "w": 5, "v": "{$sphy1+slave}" },
   { "w": 2, "v": "{$sphy1+felon}" },
   { "w": 1, "v": "{$sphy1+tribes of blight citizen}" },
   { "w": 2, "v": "{$sphy1+{teotheguilds}}" },
   { "w": 1, "v": "{$sphy1+{evilgod}}" },
   { "w": 1, "v": "{$sphy1+warlock patron's}" },
-  { "w": 5, "v": "{$sphy1+prisoner}" },
+  { "w": 4, "v": "{$sphy1+prisoner}" },
   { "w": 3, "v": "{$sphy1+servant}" }
 ]

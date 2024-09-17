@@ -135,12 +135,12 @@ describe("tables", () => {
         const nextTablePaths = tablePaths.concat([tableName]);
 
         //OZGUR Check if tableAnalysis is undefined
-        // if (!tableAnalysis) {
-        //   console.error(`Table analysis for ${tableName} is undefined.`);
-        //   return;
-        // }
-        // console.log(`Processing table: ${tableName}`);
-        // console.log(`Table Analysis:`, tableAnalysis);
+        if (!tableAnalysis) {
+          console.error(`Table analysis for ${tableName} is undefined.`);
+          return;
+        }
+        console.log(`Processing table: ${tableName}`);
+        console.log(`Table Analysis:`, tableAnalysis);
 
         // Process all rows of that table
         const rows: Row[] = tableAnalysis.map((row) => processGroups(row.groups, nextTablePaths, groupsDefinitions));

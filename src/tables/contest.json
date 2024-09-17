@@ -24,5 +24,15 @@
   { "w": 3, "v": "{$hook+race}" },
   { "w": 2, "v": "{$hook+pumpkin tossing contest}" },
   { "w": 2, "v": "{$hook+rock throwing competition}" },
-  { "w": 2, "v": "{$hook+tree trunk tossing contest}" }
+  { "w": 2, "v": "{$hook+tree trunk tossing contest}" },
+  { "w": 2, "v": "{$hook+archery tournament}" },
+  { "w": 1, "v": "{$hook+spellcasting duel}" },
+  { "w": 2, "v": "{$hook+bardic competition}" },
+  { "w": 2, "v": "{$hook+swordsmanship duel}" },
+  { "w": 2, "v": "{$hook+shipbuilding contest}" },
+  { "w": 2, "v": "{$hook+stone carving competition}" },
+  { "w": 2, "v": "{$hook+dragonchess tournament}" },
+  { "w": 2, "v": "{$hook+airship race}" },
+  { "w": 1, "v": "{$hook+mythical beast taming contest}" },
+  { "w": 2, "v": "{$hook+warforged endurance challenge}" }
 ]

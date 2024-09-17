@@ -8,6 +8,8 @@
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to eradicate evil in all its forms. }{%chaotic+2}" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to destroy fallen aasimars. }{%chaotic+2}" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to punish wrongdoers. }{%lawful+2}" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to save oathbreakers. }{%good+2}{%wis-1}" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to save fallen aasimars. }{%good+2}{%wis-1}" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to stop Mermaid's Sea of Breeze operation. }{%lawful+1}" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to nurture }{$quirks+$minPoss}{$quirks+community and help it grow.}" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to undo all of evil's misdeeds. }" }

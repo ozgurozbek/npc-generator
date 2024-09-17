@@ -3,9 +3,17 @@
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to spread misery and despair. }" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to spread lies and fear. }{%int+3}" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to spread sadness and sorrow. }" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to spread chaos and corruption. }{%chaotic+2}" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to spread hatred and vengeance. }" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to spread greed and betrayal. }{%evil+2}" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to spread suffering and anguish. }" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to spread envy and destruction. }{%wis-2}" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to spread rage and madness. }" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to raise an army of followers. }{%cha+2}" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to eradicate good aasimars. }" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to eradicate tradition. }" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to eradicate followers of good gods. }" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to open ancient gates of Teothe. }" },
+  { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks to open ancient gates. }" },
   { "w": 1, "v": "{$quirks+$majPro}{$quirks+seeks mindless destruction }{%chaotic+3}" }
 ]

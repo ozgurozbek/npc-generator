@@ -11,5 +11,13 @@
   { "w": 1, "v": "{$aword=night}" },
   { "w": 1, "v": "{$aword=philosophy}" },
   { "w": 1, "v": "{$aword=music}" },
-  { "w": 1, "v": "{$aword=love}" }
+  { "w": 1, "v": "{$aword=love}" },
+  { "w": 1, "v": "{$aword=hope}" },
+  { "w": 1, "v": "{$aword=chaos}" },
+  { "w": 1, "v": "{$aword=wisdom}" },
+  { "w": 1, "v": "{$aword=eternity}" },
+  { "w": 1, "v": "{$aword=peace}" },
+  { "w": 1, "v": "{$aword=sorrow}" },
+  { "w": 1, "v": "{$aword=destiny}" },
+  { "w": 1, "v": "{$aword=truth}" }
 ]
