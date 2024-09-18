@@ -1,6 +1,10 @@
 [
-  { "w": 1, "v": "{male}{warforgednamemale}" },
-  { "w": 1, "v": "{female}{warforgednamefemale}" },
-  { "w": 1, "v": "{male}{warforgedname}" },
-  { "w": 1, "v": "{female}{warforgedname}" }
+  { "w": 3, "v": "{male}{$name=}{warforgednamecode}{warforgednamenumber}" },
+  { "w": 3, "v": "{female}{$name=}{warforgednamecode}{warforgednamenumber}" },
+  { "w": 2, "v": "{male}{$name=}{warforgednamecode}{warforgednamenumber}{warforgednamemale}" },
+  { "w": 2, "v": "{female}{$name=}{warforgednamecode}{warforgednamenumber}{warforgednamefemale}" },
+  { "w": 1, "v": "{male}{$name=}{warforgednamemale}" },
+  { "w": 1, "v": "{female}{$name=}{warforgednamefemale}" },
+  { "w": 1, "v": "{male}{$name=}{warforgedname}" },
+  { "w": 1, "v": "{female}{$name=}{warforgedname}" }
 ]

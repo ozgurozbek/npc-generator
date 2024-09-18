@@ -1,8 +1,8 @@
 [
-  { "w": 2, "v": "{$hair=a }{teothegods}{$hair+$god}{$hair+ crest inspired truth}" },
-  { "w": 3, "v": "{$hair=a }{color}{$hair+$color}{$hair+ truth}" },
-  { "w": 5, "v": "{$hair=a }{mod}{$hair+$mod}{$hair+visible }{eyecolor}{$hair+$eyecolor}{$hair+ truth}" },
-  { "w": 5, "v": "{$hair=a }{scaletexture}{$hair+$scaletexture}{$hair+ textured truth}" },
-  { "w": 2, "v": "{$hair=a }{$precious=precious }{precious}{$hair+$precious}{$hair+ embedded onto their body as their truth}" },
-  { "w": 1, "v": "{$hair=a }{$precious=magical }{precious}{$hair+$precious}{$hair+ embedded onto their body as their truth}" }
+  { "w": 2, "v": "{$hair=a truth influenced by }{teothegods}{$hair+$god}{$hair+ and }" },
+  { "w": 3, "v": "{$hair=a }{color}{$hair+$color}{$hair+ truth and }" },
+  { "w": 5, "v": "{$hair=a }{mod}{$hair+$mod}{$hair+visible }{eyecolor}{$hair+$eyecolor}{$hair+ truth and }" },
+  { "w": 5, "v": "{$hair=a }{scaletexture}{$hair+$scaletexture}{$hair+ textured truth and }" },
+  { "w": 2, "v": "{$hair=a }{$precious=precious }{precious}{$hair+$precious}{$hair+ embedded onto their body as their truth and }" },
+  { "w": 1, "v": "{$hair=a }{$precious=magical }{precious}{$hair+$precious}{$hair+ embedded onto their body as their truth and }" }
 ]

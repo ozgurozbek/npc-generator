@@ -285,8 +285,10 @@ import underclass from "./tables/underclass.json"
 import warforgedbuild from "./tables/warforgedbuild.json"
 import warforgedgender from "./tables/warforgedgender.json"
 import warforgedname from "./tables/warforgedname.json"
+import warforgednamecode from "./tables/warforgednamecode.json"
 import warforgednamefemale from "./tables/warforgednamefemale.json"
 import warforgednamemale from "./tables/warforgednamemale.json"
+import warforgednamenumber from "./tables/warforgednamenumber.json"
 import warforgedquirks from "./tables/warforgedquirks.json"
 import warforgedskin from "./tables/warforgedskin.json"
 import warforgedtraits from "./tables/warforgedtraits.json"
@@ -586,8 +588,10 @@ export default {
   warforgedbuild,
   warforgedgender,
   warforgedname,
+  warforgednamecode,
   warforgednamefemale,
   warforgednamemale,
+  warforgednamenumber,
   warforgedquirks,
   warforgedskin,
   warforgedtraits,
