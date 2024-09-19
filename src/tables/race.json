@@ -129,6 +129,6 @@
     "w": 3,
     "name": "Warforged",
     "table": "warforged",
-    "v": "{$race=warforged}{%con+2}{%str+1}{%dex+1}{%height+15}{%lawful+3}{%good+1}{warforgedbuild}{humangod}{warforgedskin}{age}{ageBonus}{warforgedtruth}{warforgedgender}{warforgedtraits}{warforgedquirks}"
+    "v": "{$race=warforged}{%con+2}{%str+1}{%dex+1}{%height+15}{%lawful+3}{%good+1}{warforgedbuild}{warforgedgod}{warforgedskin}{age}{ageBonus}{warforgedtruth}{warforgedgender}{warforgedtraits}{warforgedquirks}"
   }
 ]

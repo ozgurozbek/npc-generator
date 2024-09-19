@@ -284,6 +284,7 @@ import tritonsurname from "./tables/tritonsurname.json"
 import underclass from "./tables/underclass.json"
 import warforgedbuild from "./tables/warforgedbuild.json"
 import warforgedgender from "./tables/warforgedgender.json"
+import warforgedgod from "./tables/warforgedgod.json"
 import warforgedname from "./tables/warforgedname.json"
 import warforgednamecode from "./tables/warforgednamecode.json"
 import warforgednamefemale from "./tables/warforgednamefemale.json"
@@ -587,6 +588,7 @@ export default {
   underclass,
   warforgedbuild,
   warforgedgender,
+  warforgedgod,
   warforgedname,
   warforgednamecode,
   warforgednamefemale,

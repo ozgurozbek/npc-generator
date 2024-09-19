@@ -1,0 +1,12 @@
+[
+  { "w": 20, "v": "{goodgod}" },
+  { "w": 5, "v": "{evilgod}" },
+  { "w": 1, "v": "{dragongod}" },
+  { "w": 1, "v": "{drowgod}" },
+  { "w": 5, "v": "{dwarfgod}" },
+  { "w": 1, "v": "{elfgod}" },
+  { "w": 2, "v": "{gnomegod}" },
+  { "w": 2, "v": "{halflinggod}" },
+  { "w": 1, "v": "{orcgod}" },
+  { "w": 15, "v": "{$god=no known god}{$goddescr=, or completely faithless.}" }
+]
