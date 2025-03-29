@@ -35,7 +35,6 @@ describe("generate", () => {
       expect.objectContaining({
         name: expect.any(String),
         age: expect.any(Number),
-        kenkuname: expect.any(String),
         gender: expect.any(String),
         race: expect.any(String),
         occupation: expect.any(String),

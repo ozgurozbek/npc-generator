@@ -44,7 +44,6 @@ export interface NpcGenerateResult {
 export interface Npc {
   description: {
     name: string;
-    kenkuname: string;
     age: number;
     gender: string;
     race: string;
