@@ -1,0 +1,7 @@
+[
+  { "w": 1, "v": "{$name+{kenkunameanimal}}" },
+  { "w": 1, "v": "{$name+{kenkunamefighting}}" },
+  { "w": 1, "v": "{$name+{kenkunamemetal}}" },
+  { "w": 1, "v": "{$name+{kenkunamequiet}}" },
+  { "w": 1, "v": "{$name+{kenkunamenormal}}" }
+]

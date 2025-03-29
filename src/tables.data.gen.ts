@@ -138,7 +138,9 @@ import kenkuname from "./tables/kenkuname.json"
 import kenkunameanimal from "./tables/kenkunameanimal.json"
 import kenkunamefighting from "./tables/kenkunamefighting.json"
 import kenkunamemetal from "./tables/kenkunamemetal.json"
+import kenkunamenormal from "./tables/kenkunamenormal.json"
 import kenkunamequiet from "./tables/kenkunamequiet.json"
+import kenkunametable from "./tables/kenkunametable.json"
 import kenkuquirks from "./tables/kenkuquirks.json"
 import kenkuskin from "./tables/kenkuskin.json"
 import koboldgender from "./tables/koboldgender.json"
@@ -442,7 +444,9 @@ export default {
   kenkunameanimal,
   kenkunamefighting,
   kenkunamemetal,
+  kenkunamenormal,
   kenkunamequiet,
+  kenkunametable,
   kenkuquirks,
   kenkuskin,
   koboldgender,
